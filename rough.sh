@@ -12,5 +12,4 @@ else
     echo "Welcome, $name!"
 fi
 
-echo "Files in current directory:"
-ls -la
+
